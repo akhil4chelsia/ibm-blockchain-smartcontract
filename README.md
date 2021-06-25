@@ -6,5 +6,5 @@ simple smart contract development using ibm blockchain platform with hyperleder 
 
 ## Tools used
 
-*IBM blockchain platform VS code plugin
-*Hyperleder Fabric
+* IBM blockchain platform VS code plugin
+* Hyperleder Fabric
